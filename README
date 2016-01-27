@@ -1,2 +1,9 @@
 This is a git repo of Vend test task.
 Please find test sample done in 'app' folder
+
+# To setup && run:
+1. Clone from github
+2. Run npm install && bower install
+3. Install gulp
+4. Run 'gulp serve' to build a test project
+5. Enjoy :)
