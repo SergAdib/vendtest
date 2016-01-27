@@ -1,0 +1,33 @@
+{
+  "name": "vendtest",
+  "description": "Test task for Vend",
+  "main": "index.html",
+  "authors": [
+    "SergeyAlekseev"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Vend",
+    "Test",
+    "Task"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.8",    
+    "modernizr": "~3.3.0"
+  },
+  "devDependencies": {    
+  }
+}
